@@ -1,4 +1,5 @@
 #!/bin/bash
+#Bajo licencia GPL
 read -p "Primero libpepflashplayer.so : " flash
 read -p "Segundo manifest.json : " flash2
 echo "usted Movera los archivos $flash y $flash2 "
